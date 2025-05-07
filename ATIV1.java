@@ -8,7 +8,7 @@ public class ATIV1 {
 
         String[] nomes = new String[5]; 
 
-       
+
         for (int i = 0; i < 5; i++) {
             System.out.print("Digite o nome " + (i + 1) + ": ");
             nomes[i] = scanner.nextLine(); 
